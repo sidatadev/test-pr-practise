@@ -1,12 +1,12 @@
-debug: False
+debug: True
 # make crab
 - dlasp 1
   name: dlasp
   auth: 456
   target: US
-  debug: False
+  debug: True
 - us-east4
   name: us-east4
   auth: 51
   target: US
-  debug: False
+  debug: True
